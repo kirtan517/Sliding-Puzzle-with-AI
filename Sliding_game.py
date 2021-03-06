@@ -20,7 +20,7 @@ TURQUOISE = (64, 224, 208)
 OFFSET = 20
 SPACE_BETWEEN_BLOCK = 5
 NUM_BLOCKS_X = 5         #number_of_blocks_X
-NUM_BLOCKS_Y = 6         # number_of_blocks_Y
+NUM_BLOCKS_Y = 5         # number_of_blocks_Y
 BLOCK_SIZE = 150        # block_size
 FONT_SIZE=70
 
